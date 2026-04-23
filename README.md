@@ -6,7 +6,7 @@ India’s rapid digital growth is driving an exponential rise in data center inf
 This project analyzes how data center expansion impacts carbon emissions across Indian states and highlights the role of policy as the key lever to balance digital growth with sustainability.
 
 
-🎯 Project Objective
+🎯 Project Objective:
 Analyze state-wise carbon emissions from data centers
 Identify key drivers:
 Scale of operations
@@ -17,11 +17,16 @@ Propose data-driven sustainable policy solutions
 Support the transition toward low-carbon digital infrastructure
 
 
-👥 Key Stakeholders
+👥 Key Stakeholders:
+
 MeitY (Government of India) – Policy design & governance
+
 State Governments – Implementation & incentives
+
 Data Center Operators – Energy consumption & efficiency
+
 Energy Providers – Renewable energy supply
+
 Regulatory Bodies – Monitoring & compliance
 
 
